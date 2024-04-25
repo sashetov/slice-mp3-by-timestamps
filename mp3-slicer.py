@@ -75,8 +75,8 @@ def main():
         sys.exit(1)
     ts_file_name = sys.argv[1]
     input_file = sys.argv[2]
-    print(f"Processing input file: {input_file} with timestamps file: {ts_filename}")
-    tracks = process_tracks(ts_filename)
+    print(f"Processing input file: {input_file} with timestamps file: {ts_file_name}")
+    tracks = process_tracks(ts_file_name)
     run_ffmpeg_commands(input_file, tracks)
 
 if __name__ == "__main__":
