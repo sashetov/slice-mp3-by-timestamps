@@ -1,0 +1,5 @@
+venv
+build
+mp3_slicer.c*
+mp3_slicer
+*.spec
