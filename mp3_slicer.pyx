@@ -1,1 +1,1 @@
-mp3-slicer
+mp3-slicer.py
