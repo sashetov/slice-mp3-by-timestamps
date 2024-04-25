@@ -1,5 +1,8 @@
 # mp3_slicer
 
+## Use Value
+    - this tool is useful for cutting up mixtapes you downloaded off youtube or elsewhere into individual tracks based on a timestamped tracklist you provide in another file
+
 ## Prereqs
     - working ffmpeg w/ codecs for mp3 installed
 
